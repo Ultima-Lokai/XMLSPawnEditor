@@ -728,7 +728,7 @@ namespace SpawnEditor2
 		private void SetClientWindowName()
 		{
 			string lower = Path.GetFileName(this.txtUltimaClient.Text).ToLower();
-			"client.exe";
+			//"client.exe";
 			string str = lower;
 			string str1 = str;
 			if (str != null)

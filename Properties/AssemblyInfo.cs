@@ -1,13 +1,13 @@
 ﻿using System.Reflection;
 
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("ServUO")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCopyright("")]
+[assembly: AssemblyCopyright("Lokai")]
 [assembly: AssemblyDelaySign(false)]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Tool for displaying and editing XmlSpawner spawns")]
 [assembly: AssemblyKeyFile("")]
 [assembly: AssemblyKeyName("")]
 [assembly: AssemblyProduct("")]
-[assembly: AssemblyTitle("")]
+[assembly: AssemblyTitle("XML Spawn Editor")]
 [assembly: AssemblyTrademark("")]
-[assembly: AssemblyVersion("1.18.2133.41352")]
+[assembly: AssemblyVersion("1.19.0.0")]

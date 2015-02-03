@@ -14,3 +14,28 @@ C:\Ancient Legends\Tools and Files\SpawnEditor2 src\SpawnEditor2\obj\Debug\Spawn
 F:\UO Shard Work Saved\Tools and Files\SpawnEditor2 src\SpawnEditor2\bin\Debug\SpawnEditor2.exe.config
 F:\UO Shard Work Saved\Tools and Files\SpawnEditor2 src\SpawnEditor2\obj\Debug\Interop.UOMAPLib.dll
 F:\UO Shard Work Saved\Tools and Files\SpawnEditor2 src\SpawnEditor2\obj\Debug\SpawnEditor2.csproj.ResolveComReference.cache
+C:\ServUO\XMLSPawnEditor\bin\Debug\SpawnEditor2.exe.config
+C:\ServUO\XMLSPawnEditor\obj\Debug\SpawnEditor2.csproj.ResolveComReference.cache
+C:\ServUO\XMLSPawnEditor\obj\Debug\Interop.UOMAPLib.dll
+C:\ServUO\XMLSPawnEditor\obj\Debug\SpawnEditor2.csprojResolveAssemblyReference.cache
+C:\ServUO\XMLSPawnEditor\obj\Debug\SpawnEditor2.AboutForm.resources
+C:\ServUO\XMLSPawnEditor\obj\Debug\SpawnEditor2.Amount.resources
+C:\ServUO\XMLSPawnEditor\obj\Debug\SpawnEditor2.Area.resources
+C:\ServUO\XMLSPawnEditor\obj\Debug\SpawnEditor2.Configure.resources
+C:\ServUO\XMLSPawnEditor\obj\Debug\SpawnEditor2.EntryEdit.resources
+C:\ServUO\XMLSPawnEditor\obj\Debug\SpawnEditor2.Forms.SpawnerFilters.resources
+C:\ServUO\XMLSPawnEditor\obj\Debug\SpawnEditor2.TransferServerSettings.resources
+C:\ServUO\XMLSPawnEditor\obj\Debug\SpawnEditor2.SpawnEditor.resources
+C:\ServUO\XMLSPawnEditor\obj\Debug\SpawnEditor2.csproj.GenerateResource.Cache
+C:\ServUO\XMLSPawnEditor\bin\Debug\SpawnEditor2.exe
+C:\ServUO\XMLSPawnEditor\bin\Debug\SpawnEditor2.pdb
+C:\ServUO\XMLSPawnEditor\bin\Debug\AxUOMAPLib.dll
+C:\ServUO\XMLSPawnEditor\bin\Debug\System.Data.dll
+C:\ServUO\XMLSPawnEditor\bin\Debug\System.dll
+C:\ServUO\XMLSPawnEditor\bin\Debug\System.Drawing.dll
+C:\ServUO\XMLSPawnEditor\bin\Debug\System.Windows.Forms.dll
+C:\ServUO\XMLSPawnEditor\bin\Debug\System.Xml.dll
+C:\ServUO\XMLSPawnEditor\bin\Debug\TransferServer.dll
+C:\ServUO\XMLSPawnEditor\bin\Debug\Ultima.dll
+C:\ServUO\XMLSPawnEditor\obj\Debug\SpawnEditor2.exe
+C:\ServUO\XMLSPawnEditor\obj\Debug\SpawnEditor2.pdb
