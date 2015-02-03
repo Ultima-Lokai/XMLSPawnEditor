@@ -1,0 +1,17 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpawnEditor2", "SpawnEditor2.csproj", "{99774014-5B8D-4CC4-9B2A-EC28A77B66C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99774014-5B8D-4CC4-9B2A-EC28A77B66C9}.Debug|AnyCPU.ActiveCfg = Debug|Any CPU
+		{99774014-5B8D-4CC4-9B2A-EC28A77B66C9}.Release|AnyCPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

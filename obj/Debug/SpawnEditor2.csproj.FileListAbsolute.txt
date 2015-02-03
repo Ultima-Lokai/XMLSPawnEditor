@@ -1,0 +1,16 @@
+C:\Ancient Legends\Tools and Files\SpawnEditor2 src\SpawnEditor2\bin\Debug\SpawnEditor2.exe.config
+C:\Ancient Legends\Tools and Files\SpawnEditor2 src\SpawnEditor2\obj\Debug\Interop.UOMAPLib.dll
+C:\Ancient Legends\Tools and Files\SpawnEditor2 src\SpawnEditor2\obj\Debug\SpawnEditor2.csproj.ResolveComReference.cache
+C:\Ancient Legends\Tools and Files\SpawnEditor2 src\SpawnEditor2\obj\Debug\SpawnEditor2.csprojResolveAssemblyReference.cache
+C:\Ancient Legends\Tools and Files\SpawnEditor2 src\SpawnEditor2\obj\Debug\SpawnEditor2.AboutForm.resources
+C:\Ancient Legends\Tools and Files\SpawnEditor2 src\SpawnEditor2\obj\Debug\SpawnEditor2.Amount.resources
+C:\Ancient Legends\Tools and Files\SpawnEditor2 src\SpawnEditor2\obj\Debug\SpawnEditor2.Area.resources
+C:\Ancient Legends\Tools and Files\SpawnEditor2 src\SpawnEditor2\obj\Debug\SpawnEditor2.Configure.resources
+C:\Ancient Legends\Tools and Files\SpawnEditor2 src\SpawnEditor2\obj\Debug\SpawnEditor2.EntryEdit.resources
+C:\Ancient Legends\Tools and Files\SpawnEditor2 src\SpawnEditor2\obj\Debug\SpawnEditor2.Forms.SpawnerFilters.resources
+C:\Ancient Legends\Tools and Files\SpawnEditor2 src\SpawnEditor2\obj\Debug\SpawnEditor2.TransferServerSettings.resources
+C:\Ancient Legends\Tools and Files\SpawnEditor2 src\SpawnEditor2\obj\Debug\SpawnEditor2.SpawnEditor.resources
+C:\Ancient Legends\Tools and Files\SpawnEditor2 src\SpawnEditor2\obj\Debug\SpawnEditor2.csproj.GenerateResource.Cache
+F:\UO Shard Work Saved\Tools and Files\SpawnEditor2 src\SpawnEditor2\bin\Debug\SpawnEditor2.exe.config
+F:\UO Shard Work Saved\Tools and Files\SpawnEditor2 src\SpawnEditor2\obj\Debug\Interop.UOMAPLib.dll
+F:\UO Shard Work Saved\Tools and Files\SpawnEditor2 src\SpawnEditor2\obj\Debug\SpawnEditor2.csproj.ResolveComReference.cache
